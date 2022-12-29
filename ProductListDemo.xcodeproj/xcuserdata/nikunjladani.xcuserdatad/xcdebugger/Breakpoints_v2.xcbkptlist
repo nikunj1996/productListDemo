@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "177999AC-663C-4B69-AFA1-D173E6EAD561"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8465FDC-6196-4739-8E69-8BB6F4C7BFDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductListDemo/SwiftUI_View/Product View/PLFavoriteListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E8465FDC-6196-4739-8E69-8BB6F4C7BFDB - 4fa8333353c4a83c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in ProductListDemo.PLFavoriteListView.body.getter : some"
+                  moduleName = "ProductListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjladani/Documents/ProductListDemo/ProductListDemo/SwiftUI_View/Product%20View/PLFavoriteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "E8465FDC-6196-4739-8E69-8BB6F4C7BFDB - df006eebc4749f11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ProductListDemo.ProductModel) -&gt; ProductListDemo.PLProductCellView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in ProductListDemo.PLFavoriteListView.body.getter : some"
+                  moduleName = "ProductListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjladani/Documents/ProductListDemo/ProductListDemo/SwiftUI_View/Product%20View/PLFavoriteListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
